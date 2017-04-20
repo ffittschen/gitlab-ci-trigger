@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"Orta.vscode-jest",
+		"dkundel.vscode-npm-source",
+		"christian-kohler.npm-intellisense",
+		"eg2.tslint"
+	]
+}

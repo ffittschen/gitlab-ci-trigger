@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [120],
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "dist": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        ".jest": true
+    },
+    "typescript.tsdk": "./node_modules/typescript/lib"
+  }
